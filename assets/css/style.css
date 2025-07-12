@@ -29,6 +29,14 @@ h1.center{
 }
 
 .grid-item h3 a,
-.center a{
+.center a,
+p,
+a{
     font-family: 'M PLUS Rounded 1c', Arial, sans-serif;
+}
+
+.center img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
